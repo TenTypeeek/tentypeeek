@@ -15,9 +15,9 @@ A modern rework of the original ox_inventory with better structure, metadata usa
 ## 📚 My work
 
 ### Radar & Ammo
-[US Docs](https://tentypeeek.gitbook.io/undv/script/radar-and-ammo)
-[CZ Docs](https://tentypeeek.gitbook.io/undv/cz/script/radar-and-ammo)
-[Release](https://github.com/TenTypeeek/TPK-radarammo/releases/tag/release)
+* [US Docs](https://tentypeeek.gitbook.io/undv/script/radar-and-ammo)
+* [CZ Docs](https://tentypeeek.gitbook.io/undv/cz/script/radar-and-ammo)
+* [Release](https://github.com/TenTypeeek/TPK-radarammo/releases/tag/release)
 
 More coming soon!
 
