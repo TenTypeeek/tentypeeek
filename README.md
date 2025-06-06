@@ -12,13 +12,12 @@ A modern rework of the original ox_inventory with better structure, metadata usa
 > Rebuilt for flexibility and realism. Inventory should feel like part of the world, not just a UI.
 
 
-## 📚 Documentation
+## 📚 My work
 
-Whenever possible, I maintain documentation to help server owners and devs implement and tweak things easily.
-
-Start here:
-* 🗺️ [US Radar & Ammo](https://tentypeeek.gitbook.io/undv/script/radar-and-ammo)
-* 🗺️ [CZ Radar & Ammo](https://tentypeeek.gitbook.io/undv/cz/script/radar-and-ammo)
+### Radar & Ammo
+[US Docs](https://tentypeeek.gitbook.io/undv/script/radar-and-ammo)
+[CZ Docs](https://tentypeeek.gitbook.io/undv/cz/script/radar-and-ammo)
+[Release](https://github.com/TenTypeeek/TPK-radarammo/releases/tag/release)
 
 More coming soon!
 
