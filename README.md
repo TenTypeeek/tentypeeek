@@ -1,4 +1,4 @@
-# 🧠 TenTypeeek | Developer Profile
+# 🧠 TenTypeeek
 
 Welcome to my official dev hub, where thoughtful design meets optimized performance. I'm TenTypeeek, a FiveM developer focused on creating immersive, efficient, and highly customizable systems for roleplay communities. My work centers around **clean code, UX-driven systems, and framework versatility**.
 
