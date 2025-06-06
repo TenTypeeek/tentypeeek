@@ -25,5 +25,5 @@ More coming soon!
 ## 🤝 Links
 
 * GitHub: [@TenTypeeek](https://github.com/TenTypeeek)
-* GitBook: [undv Docs](https://tentypeeek.gitbook.io/undv/)
+* GitBook: [Docs](https://tentypeeek.gitbook.io/undv/)
 * Socials: [Guns.lol](https://guns.lol/tentypeeek)
