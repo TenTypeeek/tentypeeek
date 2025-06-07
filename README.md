@@ -24,7 +24,7 @@ A modern rework of the original ox_inventory with better structure, metadata usa
 
 ![Banner](https://i.imgur.com/awgPBhx.png)
 
-### Radar & Ammo
+### OX Inventory Reimagined
 * No Docs Yet
 * [Release](https://github.com/TenTypeeek/ox_inventory_reimagined/releases/tag/release)
 
