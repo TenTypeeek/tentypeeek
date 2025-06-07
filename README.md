@@ -21,7 +21,6 @@ A modern rework of the original ox_inventory with better structure, metadata usa
 
 More coming soon!
 
-
 ## 🤝 Links
 
 * GitHub: [@TenTypeeek](https://github.com/TenTypeeek)
