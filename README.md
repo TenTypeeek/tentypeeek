@@ -14,22 +14,31 @@ A modern rework of the original ox_inventory with better structure, metadata usa
 
 ## 📚 My work
 
-![Banner](https://i.imgur.com/xvssHyX.png)
+![Banner](https://i.imgur.com/7hBHUP6.png) <!-- Radar & Ammo -->
 
 ### Radar & Ammo
 * [US Docs](https://tentypeeek.gitbook.io/undv/script/radar-and-ammo)
 * [CZ Docs](https://tentypeeek.gitbook.io/undv/cz/script/radar-and-ammo)
-* [Release](https://github.com/TenTypeeek/TPK-radarammo/releases/tag/release)
+* [Repository](https://github.com/TenTypeeek/TPK-radarammo)
 
 
-![Banner](https://i.imgur.com/awgPBhx.png)
+![Banner](https://i.imgur.com/mpRfuDC.png) <!-- Ox_Inventory Reimagined -->
 
 ### OX Inventory Reimagined
-* No Docs Yet
-* [Release](https://github.com/TenTypeeek/ox_inventory_reimagined/releases/tag/release)
+* [Repository](https://github.com/TenTypeeek/ox_inventory_reimagined)
 
 
-More coming soon!
+![Banner](https://i.imgur.com/WeTcuws.png) <!-- ESX_Identity -->
+
+### ESX Identity [OX_Lib] 
+* [Repository](https://github.com/TenTypeeek/ox_inventory_reimagined/releases/tag/release)
+
+
+![Banner](https://i.imgur.com/4fZrPLv.png) <!-- ESX_Multichar -->
+
+### ESX Multichar [OX_Lib]
+* [Repository](https://github.com/TenTypeeek/esx_multichar)
+
 
 ## 🤝 Links
 
