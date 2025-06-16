@@ -24,7 +24,7 @@ A modern rework of the original ox_inventory with better structure, metadata usa
 
 ![Banner](https://i.imgur.com/UCl146Q.png) <!-- TPK-Practice -->
 
-### TPK Radar & Ammo
+### TPK Practice
 * [Repository](https://github.com/TenTypeeek/TPK-practice)
 
 
