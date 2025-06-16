@@ -14,12 +14,18 @@ A modern rework of the original ox_inventory with better structure, metadata usa
 
 ## 📚 My work
 
-![Banner](https://i.imgur.com/7hBHUP6.png) <!-- Radar & Ammo -->
+![Banner](https://i.imgur.com/mm2ro4h.png) <!-- TPK-RadarAmmo -->
 
-### Radar & Ammo
+### TPK Radar & Ammo
 * [US Docs](https://tentypeeek.gitbook.io/undv/script/radar-and-ammo)
 * [CZ Docs](https://tentypeeek.gitbook.io/undv/cz/script/radar-and-ammo)
-* [Repository](https://github.com/TenTypeeek/TPK-radarammo)
+* [Repository](https://github.com/TenTypeeek/TPK-radar-ammo)
+
+
+![Banner](https://i.imgur.com/UCl146Q.png) <!-- TPK-Practice -->
+
+### TPK Radar & Ammo
+* [Repository](https://github.com/TenTypeeek/TPK-practice)
 
 
 ![Banner](https://i.imgur.com/mpRfuDC.png) <!-- Ox_Inventory Reimagined -->
