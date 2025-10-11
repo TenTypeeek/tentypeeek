@@ -1,4 +1,4 @@
-## Majitel [NewWave roleplayu](https://discord.gg/GFAeRnSPhK)
+## Majitel [Prism roleplayu](https://discord.gg/GFAeRnSPhK)
 
 ## 🔧 Current Projects / Aktuální Projekty
 
