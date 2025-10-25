@@ -15,9 +15,6 @@
 
 ### 🤝 Odkazy / Links
 <p align="center">
-  <a href="https://tentypeeek.gitbook.io/undv/">
-    <img src="https://img.shields.io/badge/GitBook-Docs-blue?logo=gitbook&logoColor=white&style=for-the-badge" />
-  </a>
   <a href="https://guns.lol/tentypeeek">
     <img src="https://img.shields.io/badge/Guns.lol-Socials-ff69b4?logo=discord&logoColor=white&style=for-the-badge" />
   </a>
