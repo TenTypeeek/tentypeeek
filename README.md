@@ -15,5 +15,6 @@
 ---
 
 ### 🤝 Spojme se
-[GitHub](https://github.com/TenTypeeek) [Instagram](https://instagram.com/tentypeeek_ig)
+[GitHub](https://github.com/TenTypeeek) 
+[Instagram](https://instagram.com/tentypeeek_ig)
 [Discord](https://discord.com/users/1006910367978504192)
