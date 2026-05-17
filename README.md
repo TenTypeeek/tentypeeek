@@ -1,28 +1,22 @@
-<p align="center">
-  <b>Majitel</b> of <a href="https://discord.gg/GFAeRnSPhK">Prism Roleplay</a> 💎<br>
-</p>
+# Čau, já jsem TenTypeeek 👋
+
+📍 Remote (poháněn kofeinem a rapem)
+💻 Digital Creator
 
 ---
 
-### ⚙️ Aktuální Projekty / Current Projects
-<p align="center">
-  <a href="https://github.com/TenTypeeek/ox_inventory_reimagined">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TenTypeeek&repo=ox_inventory_reimagined&theme=tokyonight&show_owner=true" />
-  </a>
-</p>
+### Bio
+- 👨‍✈️ Pirátství je zločin
+- 🔗 Majitel Of [@Prism.Roleplay](https://www.instagram.com/prism.roleplay)
+- 💻 [Guns.lol](https://www.guns.lol/tentypeeek)
 
 ---
 
-### 🤝 Odkazy / Links
-<p align="center">
-  <a href="https://guns.lol/tentypeeek">
-    <img src="https://img.shields.io/badge/Guns.lol-Socials-ff69b4?logo=discord&logoColor=white&style=for-the-badge" />
-  </a>
-</p>
+### 🎵 Now Playing
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=121212&text_color=ffffff&icon_color=1ed760)](https://open.spotify.com/track/533t2drXBPrEXgF2K9XRK1)
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TenTypeeek&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TenTypeeek&theme=tokyonight" />
-</p>
+### 🤝 Spojme se
+[GitHub](https://github.com/TenTypeeek) [Instagram](https://instagram.com/tentypeeek_ig)
+[Discord](https://discord.com/users/1006910367978504192)
