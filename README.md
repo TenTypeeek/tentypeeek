@@ -10,7 +10,8 @@
 ---
 
 ### 🎵 Now Playing
-[![Spotify](https://img.shields.io/badge/Spotify-Plnotučný%20Léto%20--%20Tlustej%20Kárl-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/533t2drXBPrEXgF2K9XRK1?si=xaAU7oUOSbWhg7ZGeyQMHw)
+[![Spotify](https://img.shields.io/badge/Spotify-SEADANCE%20--%20acies%20%26%20lluccashh-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/533t2drXBPrEXgF2K9XRK1?si=K28FuJ9zTt2MShwz6WBJQg)
+
 
 
 ---
