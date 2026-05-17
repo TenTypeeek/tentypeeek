@@ -10,7 +10,8 @@
 ---
 
 ### 🎵 Now Playing
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=121212&text_color=ffffff&icon_color=1ed760)](https://open.spotify.com/track/533t2drXBPrEXgF2K9XRK1)
+[![Spotify](https://img.shields.io/badge/Spotify-Plnotučný%20Léto%20--%20Tlustej%20Kárl-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/533t2drXBPrEXgF2K9XRK1?si=xaAU7oUOSbWhg7ZGeyQMHw)
+
 
 ---
 
