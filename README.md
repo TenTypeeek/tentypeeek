@@ -1,8 +1,5 @@
 # Čau, já jsem TenTypeeek 👋
 
-📍 Remote (poháněn kofeinem a rapem)
-💻 Digital Creator
-
 ---
 
 ### Bio
